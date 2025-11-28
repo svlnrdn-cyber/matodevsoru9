@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//y= 6x^5 − 8x^4 + 2x^3 − 3x + 5 fonksiyonunun 4. dereceden türevi nedir?
+//y= 6x^5 − 8x^4 + 2x^3 − 3x + 5 fonksiyonunun 4. dereceden türevi nedir?
 //1. Dereceden; F’(x) = 30x^4 - 32x^3 + 6x^2 - 3
 //2. dereceden; F’’(x) = 120x^3 - 96x^2 + 12x
 //3. Dereceden; F’’’(x) = 360x^2 - 192x + 12
